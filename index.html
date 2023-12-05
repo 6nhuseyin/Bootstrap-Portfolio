@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,16 +11,10 @@
   <link href="./css/style.css" rel="stylesheet">
   <title>Huseyin ALTIN - Front End Developer</title>
 </head>
+
 <body>
   <header class="container my-5">
-    <h1>Huseyin ALTIN</h1>
-    <a href="mailto:hellohuseyin@outlook.com" class="btn btn-outline-primary">
-      hellohuseyin@outlook.com
-    </a>
-    <p class="lead">As a budding web developer, I am enthusiastically diving into the world of UX Design and Front-end Development, committed to building user-centric and high-quality applications</p>
-  </header>
-  <nav class="container">
-    <div>
+    <nav class="container d-flex justify-content-end">
       <ul class="nav nav-pills">
         <li class="nav-item">
           <a href="#" class="nav-link active">Home</a>
@@ -34,9 +29,39 @@
           <a href="#" class="nav-link">About Me</a>
         </li>
       </ul>
+    </nav>
+    
+    <h1>Huseyin ALTIN</h1>
+    
+    
+  </header>
+
+
+  <section class="container mt-5">
+    <div class="row">
+      <!-- About Me Section -->
+      <div class="col-md-6" id="about-me">
+        <img src="./images/Huseyin.jpg" alt="Huseyin ALTIN - Front End Developer" class="img-fluid mb-3">
+        <h2>Hi, I'm <span>Huseyin</span></h2>
+        <p class="lead">I'm a Front End Developer, I love to create beautiful and functional websites. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+      </div>
+     <!-- Contact Me Section -->
+     <div class="col-md-6" id="contact-me">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Contact Me</h2>
+          <p>If you want to get in touch, you can find me at:</p>
+          <a href="https://github.com/6nhuseyin" target="_blank" class="btn btn-outline-info mt-3"">GitHub</a>
+          <a href="mailto:hellohuseyin@outlook.com" class="btn btn-outline-success mt-3">hellohuseyin@outlook.com</a>
+          <a href="/downloads/Resume.pdf" class="btn btn-outline-danger mt-3" download>Download CV</a>
+          
+        </div>
+      </div>
+      
     </div>
-  </nav>
-  
+    </div>
+  </section>
+   
   <section class="container mt-5">
     <h3>Projects</h3>
     <div class="row">
