@@ -47,9 +47,9 @@ To create an interactive and professionally styled website using Bootstrap's fea
 
 ## Review Submission
 
-1. **Deployed Application URL:** [Deployed Application](#)
-2. **GitHub Repository URL:** [GitHub Repository](#)
-3. **URL of Previously Deployed Portfolio:** [Previous Portfolio](#)
+1. **Deployed Application URL:** [Deployed Application](https://6nhuseyin.github.io/Bootstrap-Portfolio/)
+2. **GitHub Repository URL:** [GitHub Repository](https://github.com/6nhuseyin/Bootstrap-Portfolio)
+3. **URL of Previously Deployed Portfolio:** [Previous Portfolio](https://6nhuseyin.github.io/portfolio-page/)
 
 ## Change Log
 
@@ -93,21 +93,15 @@ To create an interactive and professionally styled website using Bootstrap's fea
 - [ ] **Placeholder Images:** Use images from [placehold.co](https://placehold.co) if necessary.
 - [x] **Bootstrap Cards:** Use Bootstrap cards for each project.
 - [x] **Project Descriptions:** Provide a brief overview of each work.
-- [ ] **Link to Projects:** Ensure images link to deployed class project work.
+- [x] **Link to Projects:** Ensure images link to deployed class project work.
 - [x] **Project Details:** Add titled images and brief overviews.
 
 ### Skills Section
-
 - [x] **List Bootcamp Skills:** List the skills you expect to learn from the bootcamp.
-
-### Footer Section
-
-- [ ] **Hyperlink Effects:** Ensure all hyperlinks have a hover effect.
-- [ ] **Button Styling:** Apply a box shadow effect upon hover to all buttons.
 
 ### CSS and Bootstrap Setup
 
-- [ ] **CSS File Setup:** Apply basic styling.
+- [x] **CSS File Setup:** Apply basic styling.
 - [x] **Refine Responsive Design:** Implement responsive design using Bootstrap, minimizing media queries.
 - [ ] **Consolidate and Organize CSS:** Refactor for efficiency.
 
