@@ -8,6 +8,9 @@ Welcome to my Bootstrap Portfolio! This site showcases my development skills, no
 
 **Bootstrap Portfolio**
 
+## Screenshot
+![Portfolio Screenshot](./images/screenshot.png)
+
 ## Motivation
 
 To create an interactive and professionally styled website using Bootstrap's features.
@@ -63,7 +66,7 @@ To create an interactive and professionally styled website using Bootstrap's fea
 
 - [x] **Review Acceptance Criteria:** Check grading requirements.
 - [x] **Create a Wireframe:** Plan the layout of the portfolio.
-- [ ] **Define Color Scheme, Fonts, and Images:** Decide on the aesthetic elements.
+- [x] **Define Color Scheme, Fonts, and Images:** Decide on the aesthetic elements.
 
 ### HTML Structure
 
@@ -79,46 +82,46 @@ To create an interactive and professionally styled website using Bootstrap's fea
 
 ### Hero Section
 
-- [ ] **Jumbotron Implementation:** Feature a jumbotron with your picture, name, and any additional information.
+- [x] **Jumbotron Implementation:** Feature a jumbotron with your picture, name, and any additional information.
 
 ### About/Contact Me Section
 
 - [x] **Content Creation:** Write the "About Me" section.
-- [ ] **Alignment with Contact Section:** Place the "About Me" section in the same row as the contact information.
-- [ ] **Bootstrap Styling:** Apply visual appeal with Bootstrap styles.
+- [x] **Alignment with Contact Section:** Place the "About Me" section in the same row as the contact information.
+- [x] **Bootstrap Styling:** Apply visual appeal with Bootstrap styles.
 
 ### Work Section
 
-- [ ] **Grid Layout Display:** Show your work in a grid layout.
-- [ ] **Placeholder Images:** Use images from [placehold.co](https://placehold.co) if necessary.
+- [x] **Grid Layout Display:** Show your work in a grid layout.
 - [x] **Bootstrap Cards:** Use Bootstrap cards for each project.
 - [x] **Project Descriptions:** Provide a brief overview of each work.
 - [x] **Link to Projects:** Ensure images link to deployed class project work.
 - [x] **Project Details:** Add titled images and brief overviews.
 
 ### Skills Section
+
 - [x] **List Bootcamp Skills:** List the skills you expect to learn from the bootcamp.
 
 ### CSS and Bootstrap Setup
 
 - [x] **CSS File Setup:** Apply basic styling.
 - [x] **Refine Responsive Design:** Implement responsive design using Bootstrap, minimizing media queries.
-- [ ] **Consolidate and Organize CSS:** Refactor for efficiency.
+- [x] **Consolidate and Organize CSS:** Refactor for efficiency.
 
 ### Testing and Documentation
 
-- [ ] **Testing:** Check compatibility across devices and browsers.
-- [ ] **Documentation:** Create a detailed README.md file.
-- [ ] **Submission:** Submit URLs of deployed application and GitHub repository.
+- [x] **Testing:** Check compatibility across devices and browsers.
+- [x] **Documentation:** Create a detailed README.md file.
+- [x] **Submission:** Submit URLs of deployed application and GitHub repository.
 
 ### Deployment
 
-- [ ] **Hosting:** Deploy the portfolio on GitHub Pages or another platform.
-- [ ] **GitHub Pages Setup:** Configure the settings in the GitHub repository.
+- [x] **Hosting:** Deploy the portfolio on GitHub Pages or another platform.
+- [x] **GitHub Pages Setup:** Configure the settings in the GitHub repository.
 
 ### Application Quality Checklist
 
-- [ ] **Initial Presentation:** Ensure the site displays your name, photo, and navigation links upon loading.
-- [ ] **Navigation Functionality:** Check that navigation links scroll to the corresponding sections.
-- [ ] **Work Section Content:** Confirm that the work section showcases titled images of your applications.
-- [ ] **Responsive Design:** Verify the responsiveness and adaptability of the layout across various screens and devices.
+- [x] **Initial Presentation:** Ensure the site displays your name, photo, and navigation links upon loading.
+- [x] **Navigation Functionality:** Check that navigation links scroll to the corresponding sections.
+- [x] **Work Section Content:** Confirm that the work section showcases titled images of your applications.
+- [x] **Responsive Design:** Verify the responsiveness and adaptability of the layout across various screens and devices.
